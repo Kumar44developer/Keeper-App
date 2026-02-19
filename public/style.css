@@ -26,3 +26,7 @@ header h1 {
   font-family: "McLaren", cursive;
   font-weight: 200;
 }
+
+footer {
+  position: absolute;
+  text-align: center;
