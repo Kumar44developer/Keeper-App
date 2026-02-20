@@ -101,3 +101,6 @@ form button {
   bottom: -18px;
   background: #f5ba13;
   color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 36px;
