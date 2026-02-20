@@ -32,3 +32,7 @@ function App() {
             id={index}
             title={noteItem.title}
             content={noteItem.content}
+            onDelete={deleteNote}
+          />
+        );
+      })}
