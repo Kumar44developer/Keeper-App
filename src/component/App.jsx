@@ -27,3 +27,6 @@ function App() {
       <CreateArea onAdd={addNote} />
       {notes.map((noteItem, index) => {
         return (
+          <Note
+            key={index}
+            id={index}
