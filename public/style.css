@@ -72,3 +72,9 @@ footer p {
   cursor: pointer;
   outline: none;
 }
+
+
+form {
+  position: relative;
+  width: 480px;
+  margin: 30px auto 20px auto;
