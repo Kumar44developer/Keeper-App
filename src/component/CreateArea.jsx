@@ -39,3 +39,7 @@ function CreateArea(props) {
         <textarea
           name="content"
           onChange={handleChange}
+          value={note.content}
+          placeholder="Take a note..."
+          rows="3"
+        />
