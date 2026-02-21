@@ -33,3 +33,6 @@ function CreateArea(props) {
         <input
           name="title"
           onChange={handleChange}
+          value={note.title}
+          placeholder="Title"
+        />
