@@ -31,3 +31,5 @@ function CreateArea(props) {
     <div>
       <form>
         <input
+          name="title"
+          onChange={handleChange}
