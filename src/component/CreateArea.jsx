@@ -45,3 +45,8 @@ function CreateArea(props) {
         />
         <button onClick={submitNote}>Add</button>
       </form>
+    </div>
+  );
+}
+
+export default CreateArea;
