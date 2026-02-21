@@ -25,3 +25,9 @@ function CreateArea(props) {
     });
     event.preventDefault();
   }
+
+
+  return (
+    <div>
+      <form>
+        <input
