@@ -5,3 +5,6 @@ function CreateArea(props) {
     title: "",
     content: ""
   });
+
+  function handleChange(event) {
+    const { name, value } = event.target;
